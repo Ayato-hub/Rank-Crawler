@@ -77,7 +77,7 @@ class RiotClient:
 
 
 def main(summoner_name):
-    api_key = "RGAPI-b7bfaa2f-4a98-4136-8dba-1b1609aaa43f"
+    api_key = "******************************************"
 
     client = RiotClient(api_key)
 
